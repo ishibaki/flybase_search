@@ -2,7 +2,7 @@
 
 Flybase gene searcher *via* [Alfred](https://www.alfredapp.com)/[Albert](https://albertlauncher.github.io).
 
-![](./mov.gif)
+![](./mov/mov.gif)
 
 ## Usage
 
