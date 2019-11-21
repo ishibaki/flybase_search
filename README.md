@@ -2,6 +2,8 @@
 
 Flybase gene searcher *via* [Alfred](https://www.alfredapp.com)/[Albert](https://albertlauncher.github.io).
 
+![](./mov.gif)
+
 ## Usage
 
 1. Open Alfred/Albert and triggering by `fly `.
