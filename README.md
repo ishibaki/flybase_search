@@ -8,7 +8,7 @@ Flybase gene searcher *via* [Alfred](https://www.alfredapp.com)/[Albert](https:/
 
 1. Open Alfred/Albert and triggering by `fly `.
 2. Enter the gene name (e.g. `fly N`, `fly Myo31DF`, `fly emc`, ...)
-3. Push `Enter` and you can access the Flybase page.
+3. Press `Enter` and you can access the Flybase page.
 
 ## Install
 
